@@ -9,6 +9,7 @@ export const theme = createTheme({
 		},
 		background: {
 			default: '#F6F6F6',
+			paper: '#fff',
 		},
 		error: {
 			main: '#D94646',
@@ -18,9 +19,6 @@ export const theme = createTheme({
 		},
 		info: {
 			main: '#46B5D9',
-		},
-		text: {
-			primary: '#fff',
 		},
 		warning: {
 			main: '#D98C46',

@@ -19,7 +19,7 @@ export const Login = () => {
 				</Typography>
 				<Typography
 					marginTop={20}
-					color="text.primary"
+					color="background.paper"
 					fontWeight={600}
 					fontSize="52px"
 				>
@@ -34,8 +34,8 @@ export const Login = () => {
 				<Card
 					sx={{
 						padding: '45px',
-						width: '30vw',
-						height: '60vh',
+						width: '25vw',
+						height: '45vh',
 						borderRadius: 6,
 					}}
 				>
@@ -62,9 +62,9 @@ export const Login = () => {
 								marginBottom: '25px',
 								alignSelf: 'center',
 								textTransform: 'capitalize',
-								fontSize: '24px',
-								width: '60%',
-								height: '45px',
+								fontSize: '18px',
+								width: '70%',
+								height: '40px',
 								fontWeight: '600',
 							}}
 							variant="contained"
